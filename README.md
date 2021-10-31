@@ -4,5 +4,6 @@ This repository gathers all the curious and bizarre algorithms, encountered duri
 
 ## Sources
 
-S. Dasgupta, C. Papadimitriou, U. Vazirani, _Algorithms_, 2008
+_Algorithms_, S. Dasgupta, C. Papadimitriou, U. Vazirani, 2008
+ _Dive Into Algorithms_, Tuckfield B., 2021
 
